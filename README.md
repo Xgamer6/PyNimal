@@ -1,3 +1,2 @@
 # PyNimal
-1. ``pkg update && pkg upgrade && pkg install wget python``
-2 penis
+1 ``pkg update && pkg upgrade && pkg install wget python``
